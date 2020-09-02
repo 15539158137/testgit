@@ -1,3 +1,4 @@
 测试新建Git的readme文件，这个文件必须在该Git仓库的根目录
 测试变化，并查看Git status
 第三次修改
+测试提交到dev分支，查看master分支的情况
