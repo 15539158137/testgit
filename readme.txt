@@ -1,4 +1,6 @@
 bug在新功能时候修复bug
+aaaaaa在新功能时候修复bug
+ dev
 再次i测试新建Git的readme文件，这个文件必须在该Git仓库的根目录
 测试变化，并查看Git status
 第三次修改
